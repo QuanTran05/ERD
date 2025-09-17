@@ -1,0 +1,26 @@
+# Backup files
+*.drawio.backup
+*.xml.backup
+*~
+*.tmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*.bak
+
+# Log files
+*.log
+
+# Temporary exports
+exports/
+temp/
