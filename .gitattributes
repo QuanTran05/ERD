@@ -1,0 +1,13 @@
+# Git attributes for draw.io files
+*.drawio text eol=lf
+*.xml text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+
+# Ensure line endings are consistent
+* text=auto
